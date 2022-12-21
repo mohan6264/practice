@@ -2,8 +2,17 @@ package practice;
 
 public class adding {
 
-	public adding() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
+	public class add3 {
+		public static void main(String[] args) {
+			int sum=0;
+			int number=0;
+			while(number<=100) {
+				if (number % 3==0) {
+					
+				
+					sum=sum+number;
+				}
+					number++;
+			}
+			System.out.println(sum);
+		}}}
