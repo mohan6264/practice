@@ -4,7 +4,7 @@ public class DataTypes {
 
 	public static void main(String[] args) {
 		boolean one=true;
-		byte a=1;
+		byte a=-12;
 		short b=2;
 		int i=21;
 		long c=21L;
